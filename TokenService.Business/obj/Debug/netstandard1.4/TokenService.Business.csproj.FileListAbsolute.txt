@@ -1,0 +1,6 @@
+/Users/bmccoy/Git/TokenService/TokenService.Business/bin/Debug/netstandard1.4/TokenService.Business.deps.json
+/Users/bmccoy/Git/TokenService/TokenService.Business/bin/Debug/netstandard1.4/TokenService.Business.dll
+/Users/bmccoy/Git/TokenService/TokenService.Business/bin/Debug/netstandard1.4/TokenService.Business.pdb
+/Users/bmccoy/Git/TokenService/TokenService.Business/obj/Debug/netstandard1.4/TokenService.Business.AssemblyInfo.cs
+/Users/bmccoy/Git/TokenService/TokenService.Business/obj/Debug/netstandard1.4/TokenService.Business.dll
+/Users/bmccoy/Git/TokenService/TokenService.Business/obj/Debug/netstandard1.4/TokenService.Business.pdb

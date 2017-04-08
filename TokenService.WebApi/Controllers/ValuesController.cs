@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using TokenService.Business;
 
 namespace TokenService.WebApi.Controllers
 {
@@ -27,6 +28,7 @@ namespace TokenService.WebApi.Controllers
         [HttpPost]
         public void Post([FromBody]string value)
         {
+            var class1 = new Class1();
         }
 
         // PUT api/values/5
