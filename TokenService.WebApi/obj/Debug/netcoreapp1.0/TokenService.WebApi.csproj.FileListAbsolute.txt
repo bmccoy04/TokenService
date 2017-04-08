@@ -1,0 +1,8 @@
+/Users/bmccoy/Git/TokenService/TokenService.WebApi/bin/Debug/netcoreapp1.0/TokenService.WebApi.deps.json
+/Users/bmccoy/Git/TokenService/TokenService.WebApi/bin/Debug/netcoreapp1.0/TokenService.WebApi.runtimeconfig.json
+/Users/bmccoy/Git/TokenService/TokenService.WebApi/bin/Debug/netcoreapp1.0/TokenService.WebApi.runtimeconfig.dev.json
+/Users/bmccoy/Git/TokenService/TokenService.WebApi/bin/Debug/netcoreapp1.0/TokenService.WebApi.dll
+/Users/bmccoy/Git/TokenService/TokenService.WebApi/bin/Debug/netcoreapp1.0/TokenService.WebApi.pdb
+/Users/bmccoy/Git/TokenService/TokenService.WebApi/obj/Debug/netcoreapp1.0/TokenService.WebApi.AssemblyInfo.cs
+/Users/bmccoy/Git/TokenService/TokenService.WebApi/obj/Debug/netcoreapp1.0/TokenService.WebApi.dll
+/Users/bmccoy/Git/TokenService/TokenService.WebApi/obj/Debug/netcoreapp1.0/TokenService.WebApi.pdb
